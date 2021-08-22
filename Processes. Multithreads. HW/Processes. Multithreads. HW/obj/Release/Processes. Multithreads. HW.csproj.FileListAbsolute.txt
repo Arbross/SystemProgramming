@@ -1,0 +1,17 @@
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\bin\Release\Processes.Multithreads.HW.exe.config
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\bin\Release\Processes.Multithreads.HW.exe
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\bin\Release\Processes.Multithreads.HW.pdb
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\bin\Release\Newtonsoft.Json.dll
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\bin\Release\Newtonsoft.Json.xml
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Release\MainWindow.g.cs
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Release\App.g.cs
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Release\Processes.Multithreads.HW_MarkupCompile.cache
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Release\Processes.Multithreads.HW_MarkupCompile.lref
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Release\MainWindow.baml
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Release\Processes.Multithreads.HW.g.resources
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Release\Processes.Multithreads.HW.Properties.Resources.resources
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Release\Processes. Multithreads. HW.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Release\Processes. Multithreads. HW.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Release\Processes. Multithreads. HW.csproj.CopyComplete
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Release\Processes.Multithreads.HW.exe
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Release\Processes.Multithreads.HW.pdb

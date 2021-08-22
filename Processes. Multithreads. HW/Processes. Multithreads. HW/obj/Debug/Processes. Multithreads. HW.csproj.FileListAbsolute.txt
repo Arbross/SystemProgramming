@@ -1,0 +1,18 @@
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\bin\Debug\Processes.Multithreads.HW.exe.config
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\bin\Debug\Processes.Multithreads.HW.exe
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\bin\Debug\Processes.Multithreads.HW.pdb
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Debug\Processes. Multithreads. HW.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Debug\MainWindow.g.cs
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Debug\App.g.cs
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Debug\Processes.Multithreads.HW_MarkupCompile.cache
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Debug\Processes.Multithreads.HW_MarkupCompile.lref
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Debug\MainWindow.baml
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Debug\Processes.Multithreads.HW.g.resources
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Debug\Processes.Multithreads.HW.Properties.Resources.resources
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Debug\Processes. Multithreads. HW.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Debug\Processes. Multithreads. HW.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Debug\Processes.Multithreads.HW.exe
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Debug\Processes.Multithreads.HW.pdb
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\bin\Debug\Newtonsoft.Json.dll
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\bin\Debug\Newtonsoft.Json.xml
+C:\Users\victor\source\repos\Processes. Multithreads. HW\Processes. Multithreads. HW\obj\Debug\Processes. Multithreads. HW.csproj.CopyComplete

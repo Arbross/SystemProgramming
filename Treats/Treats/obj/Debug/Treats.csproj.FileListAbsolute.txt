@@ -1,0 +1,7 @@
+C:\Users\victor\source\repos\Treats\Treats\bin\Debug\Treats.exe.config
+C:\Users\victor\source\repos\Treats\Treats\bin\Debug\Treats.exe
+C:\Users\victor\source\repos\Treats\Treats\bin\Debug\Treats.pdb
+C:\Users\victor\source\repos\Treats\Treats\obj\Debug\Treats.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Treats\Treats\obj\Debug\Treats.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Treats\Treats\obj\Debug\Treats.exe
+C:\Users\victor\source\repos\Treats\Treats\obj\Debug\Treats.pdb

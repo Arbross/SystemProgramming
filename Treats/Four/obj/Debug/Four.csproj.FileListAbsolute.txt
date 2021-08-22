@@ -1,0 +1,7 @@
+C:\Users\victor\source\repos\Treats\Four\bin\Debug\Four.exe.config
+C:\Users\victor\source\repos\Treats\Four\bin\Debug\Four.exe
+C:\Users\victor\source\repos\Treats\Four\bin\Debug\Four.pdb
+C:\Users\victor\source\repos\Treats\Four\obj\Debug\Four.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Treats\Four\obj\Debug\Four.exe
+C:\Users\victor\source\repos\Treats\Four\obj\Debug\Four.pdb
+C:\Users\victor\source\repos\Treats\Four\obj\Debug\Four.csproj.AssemblyReference.cache

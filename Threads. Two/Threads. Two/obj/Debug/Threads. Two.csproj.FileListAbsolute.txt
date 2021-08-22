@@ -1,0 +1,15 @@
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\bin\Debug\Threads.Two.exe.config
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\bin\Debug\Threads.Two.exe
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\bin\Debug\Threads.Two.pdb
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\obj\Debug\Threads. Two.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\obj\Debug\MainWindow.g.cs
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\obj\Debug\App.g.cs
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\obj\Debug\Threads.Two_MarkupCompile.cache
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\obj\Debug\Threads.Two_MarkupCompile.lref
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\obj\Debug\MainWindow.baml
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\obj\Debug\Threads.Two.g.resources
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\obj\Debug\Threads.Two.Properties.Resources.resources
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\obj\Debug\Threads. Two.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\obj\Debug\Threads. Two.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\obj\Debug\Threads.Two.exe
+C:\Users\victor\source\repos\Threads. Two\Threads. Two\obj\Debug\Threads.Two.pdb
