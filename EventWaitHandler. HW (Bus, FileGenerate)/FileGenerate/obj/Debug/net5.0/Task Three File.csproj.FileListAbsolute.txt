@@ -1,0 +1,16 @@
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\bin\Debug\net5.0\Task Three File.exe
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\bin\Debug\net5.0\Task Three File.deps.json
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\bin\Debug\net5.0\Task Three File.runtimeconfig.json
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\bin\Debug\net5.0\Task Three File.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\bin\Debug\net5.0\Task Three File.dll
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\bin\Debug\net5.0\ref\Task Three File.dll
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\bin\Debug\net5.0\Task Three File.pdb
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\obj\Debug\net5.0\Task Three File.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\obj\Debug\net5.0\Task Three File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\obj\Debug\net5.0\Task Three File.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\obj\Debug\net5.0\Task Three File.AssemblyInfo.cs
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\obj\Debug\net5.0\Task Three File.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\obj\Debug\net5.0\Task Three File.dll
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\obj\Debug\net5.0\ref\Task Three File.dll
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\obj\Debug\net5.0\Task Three File.pdb
+C:\Users\victor\source\repos\Mutex. Semaphore\Task Three File\obj\Debug\net5.0\Task Three File.genruntimeconfig.cache
