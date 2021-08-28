@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FindSmth. Task/1.0.0": {
+        "runtime": {
+          "FindSmth. Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FindSmth. Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

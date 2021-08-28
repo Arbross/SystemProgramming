@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SimpleNumbers. Task/1.0.0": {
+        "runtime": {
+          "SimpleNumbers. Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleNumbers. Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

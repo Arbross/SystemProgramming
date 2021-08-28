@@ -1,0 +1,15 @@
+C:\Users\victor\source\repos\Task. Lesson\Task One\bin\Debug\Task One.exe.config
+C:\Users\victor\source\repos\Task. Lesson\Task One\bin\Debug\Task One.exe
+C:\Users\victor\source\repos\Task. Lesson\Task One\bin\Debug\Task One.pdb
+C:\Users\victor\source\repos\Task. Lesson\Task One\obj\Debug\Task One.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Task. Lesson\Task One\obj\Debug\MainWindow.g.cs
+C:\Users\victor\source\repos\Task. Lesson\Task One\obj\Debug\App.g.cs
+C:\Users\victor\source\repos\Task. Lesson\Task One\obj\Debug\Task One_MarkupCompile.cache
+C:\Users\victor\source\repos\Task. Lesson\Task One\obj\Debug\Task One_MarkupCompile.lref
+C:\Users\victor\source\repos\Task. Lesson\Task One\obj\Debug\MainWindow.baml
+C:\Users\victor\source\repos\Task. Lesson\Task One\obj\Debug\Task One.g.resources
+C:\Users\victor\source\repos\Task. Lesson\Task One\obj\Debug\Task_One.Properties.Resources.resources
+C:\Users\victor\source\repos\Task. Lesson\Task One\obj\Debug\Task One.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\Task. Lesson\Task One\obj\Debug\Task One.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Task. Lesson\Task One\obj\Debug\Task One.exe
+C:\Users\victor\source\repos\Task. Lesson\Task One\obj\Debug\Task One.pdb

@@ -1,0 +1,5 @@
+Sentence count : 0
+Symbols count : 309
+Words count : 0
+Question count : 0
+Exclamation mark : 1

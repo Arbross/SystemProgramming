@@ -1,0 +1,15 @@
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\bin\Debug\DirectoryViewer.exe.config
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\bin\Debug\DirectoryViewer.exe
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\bin\Debug\DirectoryViewer.pdb
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\obj\Debug\DirectoryViewer.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\obj\Debug\MainWindow.g.cs
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\obj\Debug\App.g.cs
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\obj\Debug\DirectoryViewer_MarkupCompile.cache
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\obj\Debug\DirectoryViewer_MarkupCompile.lref
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\obj\Debug\MainWindow.baml
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\obj\Debug\DirectoryViewer.g.resources
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\obj\Debug\DirectoryViewer.Properties.Resources.resources
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\obj\Debug\DirectoryViewer.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\obj\Debug\DirectoryViewer.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\obj\Debug\DirectoryViewer.exe
+C:\Users\victor\source\repos\Task. Lesson\DirectoryViewer\obj\Debug\DirectoryViewer.pdb
