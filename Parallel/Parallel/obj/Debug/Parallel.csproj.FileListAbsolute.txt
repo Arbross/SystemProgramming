@@ -1,0 +1,7 @@
+C:\Users\victor\source\repos\Parallel\Parallel\bin\Debug\Parallel.exe.config
+C:\Users\victor\source\repos\Parallel\Parallel\bin\Debug\Parallel.exe
+C:\Users\victor\source\repos\Parallel\Parallel\bin\Debug\Parallel.pdb
+C:\Users\victor\source\repos\Parallel\Parallel\obj\Debug\Parallel.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Parallel\Parallel\obj\Debug\Parallel.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Parallel\Parallel\obj\Debug\Parallel.exe
+C:\Users\victor\source\repos\Parallel\Parallel\obj\Debug\Parallel.pdb

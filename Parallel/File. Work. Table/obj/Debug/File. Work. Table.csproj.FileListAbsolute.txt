@@ -1,0 +1,7 @@
+C:\Users\victor\source\repos\Parallel\File. Work. Table\bin\Debug\File.Work.Table.exe.config
+C:\Users\victor\source\repos\Parallel\File. Work. Table\bin\Debug\File.Work.Table.exe
+C:\Users\victor\source\repos\Parallel\File. Work. Table\bin\Debug\File.Work.Table.pdb
+C:\Users\victor\source\repos\Parallel\File. Work. Table\obj\Debug\File. Work. Table.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Parallel\File. Work. Table\obj\Debug\File. Work. Table.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Parallel\File. Work. Table\obj\Debug\File.Work.Table.exe
+C:\Users\victor\source\repos\Parallel\File. Work. Table\obj\Debug\File.Work.Table.pdb

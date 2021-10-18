@@ -1,0 +1,15 @@
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\bin\Debug\Platform Invoke Examples.exe.config
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\bin\Debug\Platform Invoke Examples.exe
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\bin\Debug\Platform Invoke Examples.pdb
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\obj\Debug\Platform Invoke Examples.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\obj\Debug\MainWindow.g.cs
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\obj\Debug\App.g.cs
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\obj\Debug\Platform Invoke Examples_MarkupCompile.cache
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\obj\Debug\Platform Invoke Examples_MarkupCompile.lref
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\obj\Debug\MainWindow.baml
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\obj\Debug\Platform Invoke Examples.g.resources
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\obj\Debug\Platform_Invoke_Examples.Properties.Resources.resources
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\obj\Debug\Platform Invoke Examples.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\obj\Debug\Platform Invoke Examples.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\obj\Debug\Platform Invoke Examples.exe
+C:\Users\victor\source\repos\Platform Invoke Examples\Platform Invoke Examples\obj\Debug\Platform Invoke Examples.pdb

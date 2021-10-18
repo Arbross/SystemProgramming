@@ -1,0 +1,7 @@
+C:\Users\victor\source\repos\Hook. Smth\Hook. Smth\obj\Debug\Hook. Smth.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Hook. Smth\Hook. Smth\obj\Debug\Hook. Smth.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Hook. Smth\Hook. Smth\bin\Debug\Hook.Smth.exe.config
+C:\Users\victor\source\repos\Hook. Smth\Hook. Smth\bin\Debug\Hook.Smth.exe
+C:\Users\victor\source\repos\Hook. Smth\Hook. Smth\bin\Debug\Hook.Smth.pdb
+C:\Users\victor\source\repos\Hook. Smth\Hook. Smth\obj\Debug\Hook.Smth.exe
+C:\Users\victor\source\repos\Hook. Smth\Hook. Smth\obj\Debug\Hook.Smth.pdb

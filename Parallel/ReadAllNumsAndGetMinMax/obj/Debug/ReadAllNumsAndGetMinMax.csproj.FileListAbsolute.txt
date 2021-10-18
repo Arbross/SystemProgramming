@@ -1,0 +1,6 @@
+C:\Users\victor\source\repos\Parallel\ReadAllNumsAndGetMinMax\bin\Debug\ReadAllNumsAndGetMinMax.exe.config
+C:\Users\victor\source\repos\Parallel\ReadAllNumsAndGetMinMax\bin\Debug\ReadAllNumsAndGetMinMax.exe
+C:\Users\victor\source\repos\Parallel\ReadAllNumsAndGetMinMax\bin\Debug\ReadAllNumsAndGetMinMax.pdb
+C:\Users\victor\source\repos\Parallel\ReadAllNumsAndGetMinMax\obj\Debug\ReadAllNumsAndGetMinMax.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Parallel\ReadAllNumsAndGetMinMax\obj\Debug\ReadAllNumsAndGetMinMax.exe
+C:\Users\victor\source\repos\Parallel\ReadAllNumsAndGetMinMax\obj\Debug\ReadAllNumsAndGetMinMax.pdb

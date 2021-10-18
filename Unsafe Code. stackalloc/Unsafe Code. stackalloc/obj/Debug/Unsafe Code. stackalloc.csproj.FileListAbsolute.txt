@@ -1,0 +1,7 @@
+C:\Users\victor\source\repos\Unsafe Code. stackalloc\Unsafe Code. stackalloc\bin\Debug\Unsafe_Code.@stackalloc.exe.config
+C:\Users\victor\source\repos\Unsafe Code. stackalloc\Unsafe Code. stackalloc\bin\Debug\Unsafe_Code.@stackalloc.exe
+C:\Users\victor\source\repos\Unsafe Code. stackalloc\Unsafe Code. stackalloc\bin\Debug\Unsafe_Code.@stackalloc.pdb
+C:\Users\victor\source\repos\Unsafe Code. stackalloc\Unsafe Code. stackalloc\obj\Debug\Unsafe Code. stackalloc.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Unsafe Code. stackalloc\Unsafe Code. stackalloc\obj\Debug\Unsafe Code. stackalloc.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Unsafe Code. stackalloc\Unsafe Code. stackalloc\obj\Debug\Unsafe_Code.@stackalloc.exe
+C:\Users\victor\source\repos\Unsafe Code. stackalloc\Unsafe Code. stackalloc\obj\Debug\Unsafe_Code.@stackalloc.pdb
